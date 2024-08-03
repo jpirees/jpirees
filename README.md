@@ -7,10 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jpirees) 
 
 ## Tech Skills
-[![My Skills](https://skillicons.dev/icons?i=azure,gcp&perline=10)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,nestjs&perline=10)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq&perline=10)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,gcp,cs,dotnet,js,ts,nodejs,nestjs,docker,kubernetes,rabbitmq,postgres,mongodb,redis&perline=20)](https://skillicons.dev)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jpirees&theme=radical&no-frame=false&no-bg=true&margin-w=4)
