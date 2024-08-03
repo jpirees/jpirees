@@ -4,7 +4,7 @@
 🌱 I’m currently learning ReactJS <br><br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giovani-de-barros-ferro) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jpirees) 
 
 ## Tech Skills
 [![My Skills](https://skillicons.dev/icons?i=azure,gcp&perline=10)](https://skillicons.dev)
