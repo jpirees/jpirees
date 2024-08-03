@@ -1,31 +1,19 @@
-Hi 👋 My name is Junior
-=======================
+# 🙎🏾 About Me:
+🏡 I'm working at 5by5 Soluções em Sistemas <br><br>
+💻 I'm currently work with stack C# / .NET (backend) and ReactJS (frontend) <br><br>
+🌱 I’m currently learning ReactJS <br><br>
 
-<p align="center">
-  <img width="52%" src = "https://github-readme-stats.vercel.app/api?username=jpirees&show_icons=true&&hide=stars&theme=algolia&line_height=27">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpirees&layout=compact&theme=algolia" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giovani-de-barros-ferro) 
 
-### Skills
+## Tech Skills
+[![My Skills](https://skillicons.dev/icons?i=azure,gcp&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,nestjs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=10)](https://skillicons.dev)
 
-
-
-![Skills](https://skills.thijs.gg/icons?i=gcp)
-
-![Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,nestjs)
-
-![Skills](https://skills.thijs.gg/icons?i=cs)
-
-![Skills](https://skills.thijs.gg/icons?i=postgres,mongo,redis)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jpirees&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-### Socials
-
-<div> 
-  <a href="https://www.linkedin.com/in/jpirees/" target="_blank">
-    <img src="https://skills.thijs.gg/icons?i=linkedin" target="_blank">
-  </a> 
-</div>
-
-
- ![Snake animation](https://github.com/jpirees/jpirees/blob/output/github-contribution-grid-snake.svg)
+[![](https://visitcount.itsvg.in/api?id=jpirees&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
