@@ -4,7 +4,7 @@
 🌱 I’m currently learning ReactJS <br><br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jpirees) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seripj) 
 
 ## Tech Skills
 [![My Skills](https://skillicons.dev/icons?i=azure,gcp,cs,dotnet,js,ts,nodejs,nestjs,docker,kubernetes,rabbitmq,postgres,mongodb,redis&perline=20)](https://skillicons.dev)
